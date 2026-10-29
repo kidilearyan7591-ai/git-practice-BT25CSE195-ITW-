@@ -1,2 +1,1 @@
-This is my first Git exercise.
-I created a file and tracked it using Git.
+My first Git practice exercise
