@@ -41,10 +41,6 @@ Run it on Windows using:
 - Added a `.gitignore` file.
 - Committed and pushed changes to GitHub.
 
-# Issues and Pull Requests
-
-Add the links to your completed GitHub issues and pull requests here.
-
 # GitHub Activities
 
 - Issue: [Git practice assignment completed](https://github.com/kidilearyan7591-ai/git-practice-BT25CSE195-ITW-/issues/1)
