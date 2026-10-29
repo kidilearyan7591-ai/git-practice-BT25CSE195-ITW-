@@ -1,0 +1,2 @@
+This is my third Git exercise.
+I practiced Git branches and collaboration.

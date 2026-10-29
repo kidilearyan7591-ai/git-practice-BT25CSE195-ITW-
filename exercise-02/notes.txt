@@ -1,0 +1,2 @@
+This is my second Git exercise.
+I practiced modifying and committing files.
